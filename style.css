@@ -9,6 +9,7 @@ background-color: black;
 width: 80rem;
 height: 28rem;
 border-radius: 1rem;
+margin-left: 4rem;
 
 }
 
@@ -22,7 +23,7 @@ left: 160px;
 }
 .img-1{
     position: absolute;
-    background-color: rgb(24, 24, 211);
+    background-color: black;
     margin-top: 1rem;
     left: 45rem;
     width: 23rem;
@@ -30,7 +31,7 @@ left: 160px;
 }
 .text-design-two{
     position: absolute;
-    color: azure;
+    color:white;
     margin-top: 15rem;
     margin-left: 10rem;
     width: 20rem;
