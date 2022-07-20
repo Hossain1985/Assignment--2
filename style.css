@@ -1,0 +1,30 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+.cointainer-1{
+    position: relative;
+background-color: black;
+width: 70rem;
+height: 28rem;
+border-radius: 1rem;
+
+}
+
+.h1{
+    position: absolute;
+    color: rgb(227, 10, 10);
+    width:14rem;
+height: 20rem;
+top: 80px;
+left: 160px;
+    
+}
+.img-1{
+    position: absolute;
+    background-color: rgb(24, 24, 211);
+    margin-top: 4rem;
+    left: 40rem;
+
+}
