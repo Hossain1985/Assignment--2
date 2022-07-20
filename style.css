@@ -45,5 +45,43 @@ left: 45px;
         background-color: #ef0744;
         padding: 15px 32px;
         }
+/* This is a second section */
+.cointainer-2{
+    position: relative;
+    margin-top: 5rem;
 
-        
+
+}
+
+.box-1{
+    position: absolute;
+    background: black;
+    border-radius: 0.5rem;
+    width: 22rem;
+    height: 22rem;
+    margin-left: 2rem;
+    margin-top: 4rem;
+
+
+}
+.box-2{
+    position: absolute;
+    border: solid red 1px;
+    width: 18rem;
+    height: 17rem;
+
+}
+.grid{
+    position: absolute;
+    display: grid;
+     justify-items: center;
+     align-items: center;
+     justify-content: center;
+     align-content: center;
+     grid-template-rows:repeat(3,320px);
+     grid-template-columns: repeat(3,350px);
+     margin-left: 28rem;
+
+
+}
+
