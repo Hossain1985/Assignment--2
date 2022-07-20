@@ -6,10 +6,12 @@ font-family: 'Ubuntu', sans-serif;
 .cointainer-1{
     position: relative;
 background-color: black;
-width: 80rem;
-height: 28rem;
+width: 99rem;
+height: 32rem;
 border-radius: 1rem;
-margin-left: 4rem;
+margin-left: 2rem;
+margin-top: 2rem;
+
 
 }
 
@@ -18,29 +20,30 @@ margin-left: 4rem;
     color: white;
     width:14rem;
 height: 20rem;
-top: 80px;
-left: 160px;
+top: 12px;
+left: 45px;
 }
 .img-1{
     position: absolute;
     background-color: black;
     margin-top: 1rem;
-    left: 45rem;
-    width: 23rem;
-    height: 26rem;
+    left: 60rem;
+    width: 30%;
+    height: 31rem;
 }
 .text-design-two{
     position: absolute;
     color:white;
-    margin-top: 15rem;
-    margin-left: 10rem;
+    margin-top: 11rem;
+    margin-left: 5rem;
     width: 20rem;
     }
     .button {
         position: absolute;
-        margin-top: 18rem;
-        margin-left: 10rem;
+        margin-top: 15rem;
+        margin-left: 5rem;
         background-color: #ef0744;
         padding: 15px 32px;
         }
+
         
