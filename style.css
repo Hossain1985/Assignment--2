@@ -46,6 +46,14 @@ left: 45px;
         padding: 15px 32px;
         border-radius: 0.5rem;
         }
+.fa-solid fa-play{
+    margin-top: 2px;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    position: absolute;
+    margin-left: 0.4rem;
+    margin-top: 0.2rem;
+        }
         
 /* This is a second section */
 .cointainer-2{
@@ -76,8 +84,6 @@ left: 45px;
 */
 
 .grid{
-    display: flex;
-    flex-direction: column;
     position: absolute;
     display: grid;
      justify-items: center;
@@ -90,12 +96,9 @@ left: 45px;
 
 
 }
-.fa-solid fa-play{
-    width: 10px;
-    height: 12px;
-}
 
-  .button-a{
+
+.button-a{
     border-radius: 0.25rem;
     font-size: 36px;
     height: 415px;
@@ -108,7 +111,8 @@ left: 45px;
     margin: 4px 2px;
     cursor: pointer;
       }
-      .button-design{
+
+.button-design{
     width: 21rem;
     height: 28rem;
     display: flex;
@@ -126,6 +130,7 @@ left: 45px;
     position: absolute;
     border-radius: 0.5rem;
       }
+      
   
  
 
