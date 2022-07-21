@@ -44,7 +44,9 @@ left: 45px;
         margin-left: 5rem;
         background-color: #ef0744;
         padding: 15px 32px;
+        border-radius: 0.5rem;
         }
+        
 /* This is a second section */
 .cointainer-2{
     position: relative;
@@ -53,7 +55,7 @@ left: 45px;
 
 }
 
-.box-1{
+/* .box-1 
     position: absolute;
     background: black;
     border-radius: 0.5rem;
@@ -61,17 +63,21 @@ left: 45px;
     height: 22rem;
     margin-left: 2rem;
     margin-top: 4rem;
-
+    display: flex;
+    flex-direction: column;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
 
 }
-.box-2{
-    position: absolute;
-    border: solid red 1px;
-    width: 18rem;
-    height: 17rem;
+*/
 
-}
 .grid{
+    display: flex;
+    flex-direction: column;
     position: absolute;
     display: grid;
      justify-items: center;
@@ -84,4 +90,52 @@ left: 45px;
 
 
 }
+.fa-solid fa-play{
+    width: 10px;
+    height: 12px;
+}
+
+  .button-a{
+    border-radius: 0.25rem;
+    font-size: 36px;
+    height: 415px;
+    background-color: white;
+    border: none;
+    color: #111010;
+    padding: 25px 24px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+      }
+      .button-design{
+    width: 21rem;
+    height: 28rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #1c1a1a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 72px 29px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bolder;
+    position: absolute;
+    border-radius: 0.5rem;
+      }
+  
+ 
+
+
+
+
+
+  
+  
+ 
+  
+  
 
