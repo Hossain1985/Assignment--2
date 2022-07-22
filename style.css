@@ -69,26 +69,6 @@ left: 45px;
 
 }
 
-/* .box-1 
-    position: absolute;
-    background: black;
-    border-radius: 0.5rem;
-    width: 22rem;
-    height: 22rem;
-    margin-left: 2rem;
-    margin-top: 4rem;
-    display: flex;
-    flex-direction: column;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    cursor: pointer;
-
-}
-*/
-
 .grid{
     position: absolute;
     display: grid;
@@ -162,12 +142,6 @@ left: 45px;
         height: 10rem;
     }
 
-      @media screen and (min-width:576px;) {
-        footer {
-            background-color: aqua;
-        }
-        
-      }
       .button-b{
        
         margin-bottom: 10rem;
